@@ -1,2 +1,2 @@
 # Reliance-Git-Demo
-Git and HitHub demo for reliance college
+Git and GitHub demo for reliance college
