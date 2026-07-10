@@ -1,1 +1,4 @@
 1|Rabi Sharma|19|BSc.CSIT|Chabahil
+3|Anish Khatiwada|20|BSc.CSIT|putalisadak
+2|Suraj Das|20|BSc.CSIT|Sarawastinagar
+4|Bijay Thapa|20|BSc.CSIT|chabahil
