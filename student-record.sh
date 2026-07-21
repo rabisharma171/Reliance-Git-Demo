@@ -43,7 +43,7 @@ view_students() {
 
     echo "--------------------------------------------------------------------------"
 
-    while IFS="|" read id name age course address
+   sort -t"|" -k1,1"$FILE" | while IFS="|" read id name age course address
     do
         printf "%-8s %-20s %-8s %-20s %-20s\n" \
         "$id" "$name" "$age" "$course" "$address"
