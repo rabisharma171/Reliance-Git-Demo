@@ -47,7 +47,7 @@ view_students() {
     do
         printf "%-8s %-20s %-8s %-20s %-20s\n" \
         "$id" "$name" "$age" "$course" "$address"
-    done < "$FILE"
+    done 
 }
 
 # ---------------------- Search Student ----------------------
